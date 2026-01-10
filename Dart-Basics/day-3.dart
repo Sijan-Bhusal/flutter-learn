@@ -70,3 +70,16 @@ void main() {
   // boolCheck();
   conditions();
 }
+
+/*
+  Achievements and Learnings (Day 3):
+  - Learned about variables in Dart: `final` for runtime constants and `const` for compile-time constants.
+  - Understood the difference between explicit type declaration (e.g., `int`) and type inference with `var`.
+  - Practiced type conversion, for example from `int` to `double`.
+  - Explored String manipulation:
+    - String interpolation for embedding variables and expressions.
+    - Creating multi-line strings.
+  - Worked with boolean logic, understanding operator precedence with `&&`, `||`, and parentheses.
+  - Set up a basic conditional structure with an `if` statement.
+  - Reinforced the use of functions to organize code.
+*/
