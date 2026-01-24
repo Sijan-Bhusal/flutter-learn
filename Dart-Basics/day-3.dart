@@ -55,13 +55,7 @@ void boolCheck() {
 }
 
 void conditions() {
-  int likes; //here difference between writing int and var is: int has clear datatype while var datatype depends on the type of value.
   // Use int for clarity; use var for complex types where inference is obvious (e.g., var result = someFunction();)
-print("Enter the number")
-  if (likes>30){
-
-  }
-
 }
 
 void main() {
